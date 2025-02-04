@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B149F044-E583-ABF2-90A2-57EA76206EB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallMoveControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HandCollistionWithBall.cs" Line="31" Column="54" />
+      <File FileName="Assets/Scripts/TrainingWallCollisionWithBall.cs" Line="19" Column="32" />
+      <File FileName="Assets/Scripts/ButtonInteraction.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/UI_InteractionController.cs" Line="100" Column="1" />
+      <File FileName="Assets/Scripts/VelocityCalculator.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/GoalWallCollideWithBall.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BallMoveControl.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74aad926-1296-4ffc-8522-5411a3b723cf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
